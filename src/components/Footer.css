@@ -1,0 +1,29 @@
+footer{
+  background-color: black;
+  color:white;
+  padding:50px;
+
+}
+.social-media-container{
+  display: flex;
+  gap:20px;
+  justify-content: center;
+}
+.social-media-text:hover{
+cursor: pointer;
+
+  color:blue;
+}
+.copy-right{
+  text-align: center;
+}
+.social-icons{
+  display: flex;
+  gap:5px;
+  justify-content: center;
+
+}
+.social-icons:hover{
+  color:blue;
+cursor: pointer;
+}
